@@ -1,0 +1,22 @@
+section {
+  padding: 25px;
+  color: white;
+  height: 500px;
+
+  /* Linear */
+  /* background-image: linear-gradient(#abdcff, #0396ff);
+  background-image: linear-gradient(to right, #43cbff, #9708cc);
+  background-image: linear-gradient(to top, #92ffc0, #002661);
+  background-image: linear-gradient(to bottom, #92ffc0, #002661);
+
+  background-image: linear-gradient(
+    to left,
+    hsl(131, 100%, 25%),
+    #0000f9,
+    rgb(134, 0, 125)
+  ); */
+
+  /* Radial */
+  background-image: radial-gradient(circle, #360940, #f05f57);
+  background-image: radial-gradient(ellipse, #3b2667, #bc78ec);
+}

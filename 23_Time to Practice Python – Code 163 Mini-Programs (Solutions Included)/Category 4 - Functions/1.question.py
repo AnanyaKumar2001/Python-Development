@@ -1,0 +1,1 @@
+# Create a function that can accept two arguments name and age and print their value

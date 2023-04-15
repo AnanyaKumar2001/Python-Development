@@ -1,0 +1,26 @@
+company_name,company_price_intraday,company_symbol,company_symbol_link
+Apple Inc.,143.24,AAPL,https://finance.yahoo.com/sector/ms_technology/quote/AAPL?p=AAPL
+Microsoft Corporation,277.42,MSFT,https://finance.yahoo.com/sector/ms_technology/quote/MSFT?p=MSFT
+Taiwan Semiconductor Manufacturing Company Limited,117.87,TSM,https://finance.yahoo.com/sector/ms_technology/quote/TSM?p=TSM
+NVIDIA Corporation,796.11,NVDA,https://finance.yahoo.com/sector/ms_technology/quote/NVDA?p=NVDA
+Adobe Inc.,605.95,ADBE,https://finance.yahoo.com/sector/ms_technology/quote/ADBE?p=ADBE
+ASML Holding N.V.,673.68,ASML,https://finance.yahoo.com/sector/ms_technology/quote/ASML?p=ASML
+Oracle Corporation,85.59,ORCL,https://finance.yahoo.com/sector/ms_technology/quote/ORCL?p=ORCL
+"salesforce.com, inc.",245.80,CRM,https://finance.yahoo.com/sector/ms_technology/quote/CRM?p=CRM
+"Cisco Systems, Inc.",53.26,CSCO,https://finance.yahoo.com/sector/ms_technology/quote/CSCO?p=CSCO
+Intel Corporation,55.39,INTC,https://finance.yahoo.com/sector/ms_technology/quote/INTC?p=INTC
+Accenture plc,309.15,ACN,https://finance.yahoo.com/sector/ms_technology/quote/ACN?p=ACN
+Broadcom Inc.,470.50,AVGO,https://finance.yahoo.com/sector/ms_technology/quote/AVGO?p=AVGO
+Shopify Inc.,"1,463.34",SHOP,https://finance.yahoo.com/sector/ms_technology/quote/SHOP?p=SHOP
+SAP SE,146.11,SAP,https://finance.yahoo.com/sector/ms_technology/quote/SAP?p=SAP
+Texas Instruments Incorporated,188.24,TXN,https://finance.yahoo.com/sector/ms_technology/quote/TXN?p=TXN
+QUALCOMM Incorporated,138.29,QCOM,https://finance.yahoo.com/sector/ms_technology/quote/QCOM?p=QCOM
+Intuit Inc.,506.09,INTU,https://finance.yahoo.com/sector/ms_technology/quote/INTU?p=INTU
+Sony Group Corporation,99.34,SONY,https://finance.yahoo.com/sector/ms_technology/quote/SONY?p=SONY
+International Business Machines Corporation,140.74,IBM,https://finance.yahoo.com/sector/ms_technology/quote/IBM?p=IBM
+"Applied Materials, Inc.",132.53,AMAT,https://finance.yahoo.com/sector/ms_technology/quote/AMAT?p=AMAT
+"Zoom Video Communications, Inc.",386.01,ZM,https://finance.yahoo.com/sector/ms_technology/quote/ZM?p=ZM
+"ServiceNow, Inc.",560.47,NOW,https://finance.yahoo.com/sector/ms_technology/quote/NOW?p=NOW
+"Advanced Micro Devices, Inc.",89.74,AMD,https://finance.yahoo.com/sector/ms_technology/quote/AMD?p=AMD
+"Square, Inc.",235.90,SQ,https://finance.yahoo.com/sector/ms_technology/quote/SQ?p=SQ
+"Fidelity National Information Services, Inc.",143.15,FIS,https://finance.yahoo.com/sector/ms_technology/quote/FIS?p=FIS

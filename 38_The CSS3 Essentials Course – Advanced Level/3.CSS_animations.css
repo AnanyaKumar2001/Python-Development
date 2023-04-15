@@ -1,0 +1,54 @@
+.block {
+  height: 100px;
+  width: 100px;
+  background-color: lawngreen;
+
+  animation-name: my-first-anime;
+  animation-duration: 10s;
+}
+/* 
+@keyframes my-first-anime {
+  from {
+    background-color: lawngreen;
+  }
+
+  to {
+    background-color: blueviolet;
+  }
+} */
+
+/* @keyframes my-first-anime {
+  0% {
+    transform: translateX(0);
+  }
+
+  50% {
+    transform: translateX(250px);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+} */
+
+@keyframes my-first-anime {
+  0% {
+    transform: translate(0);
+  }
+
+  25% {
+    transform: translate(250px, 0);
+  }
+
+  50% {
+    transform: translate(250px, 150px);
+  }
+
+  75% {
+    transform: translate(0, 150px);
+  }
+
+  100% {
+    transform: translate(0);
+  }
+}

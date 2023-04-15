@@ -1,0 +1,13 @@
+img {
+  height: 600px;
+  width: 700px;
+  object-fit: cover;
+
+  filter: blur(10px);
+  filter: brightness(5%);
+  filter: grayscale(100%);
+  filter: contrast(10%);
+  filter: opacity(0.8);
+  filter: saturate(150%);
+  filter: sepia(50%);
+}

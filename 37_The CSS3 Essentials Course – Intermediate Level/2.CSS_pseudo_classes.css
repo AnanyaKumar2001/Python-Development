@@ -1,0 +1,50 @@
+/* First Child Pseudo Class Selector */
+/* article p:first-child {
+  background-color: #777;
+} */
+
+/* Last Child Pseudo Class Selector */
+/* article p:last-child {
+  background-color: #888;
+  padding: 20px;
+} */
+
+/* Nth Child Pseudo Class Selector */
+/* article p:nth-child(2) {
+  background-color: lightsalmon;
+  padding: 25px;
+  color: white;
+} */
+
+/* First of type Child Pseudo Class Selector */
+/* article p:first-of-type {
+  background-color: lightsalmon;
+  padding: 25px;
+  color: white;
+} */
+
+/* Last of Type Child Pseudo Class Selector */
+/* article p:last-of-type {
+  background-color: lightsalmon;
+  padding: 25px;
+  color: white;
+} */
+
+/* Nth of Type Child Pseudo Class Selector */
+/* article p:nth-of-type(2) {
+  background-color: lightsalmon;
+  padding: 25px;
+  color: white;
+} */
+
+/* article .para:nth-of-type(2) {
+  background-color: lightsalmon;
+  padding: 25px;
+  color: white;
+} */
+
+.main-para {
+  background-color: lightsalmon;
+  padding: 25px;
+  color: white;
+}

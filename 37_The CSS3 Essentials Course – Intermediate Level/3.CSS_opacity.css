@@ -1,0 +1,22 @@
+body {
+  background-image: url("cars.jpg");
+}
+
+img {
+  height: 500px;
+  width: 600px;
+  object-fit: cover;
+}
+
+img:hover {
+  opacity: 0.2;
+}
+
+p {
+  color: black;
+  padding: 25px;
+  font-size: 30px;
+  /* background-color: rgba(78, 25, 25, 0.1); */
+  /* background-color: hsla(0, 51%, 20%, 0.1); */
+  background-color: #4d19191a;
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>HTML Forms Part 2</title>
+  </head>
+  <body>
+    <form>
+      <!-- Select List -->
+      <select name="movies">
+        <option value="movies">Movies</option>
+        <option value="captain-america">Captain America 4</option>
+        <option value="thor">Thor 4: Love & Thunder</option>
+      </select>
+
+      <!-- Data List -->
+      <input list="movies" />
+      <datalist id="movies">
+        <option value="Captain America 4"></option>
+        <option value="Thor 4: Love & Thunder"></option>
+      </datalist>
+    </form>
+  </body>
+</html>

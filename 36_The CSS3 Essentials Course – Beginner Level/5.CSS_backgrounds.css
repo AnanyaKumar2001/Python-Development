@@ -1,0 +1,15 @@
+body {
+  color: white;
+  /* background-color: lightcoral; */
+
+  background-image: url("wick.jpg");
+  background-size: cover;
+  /* background-size: contain; */
+  /* background-repeat: no-repeat; */
+
+  /* background-position: top; */
+  /* background-position: left; */
+  /* background-position: right; */
+  /* background-position: bottom; */
+  background-position: center;
+}

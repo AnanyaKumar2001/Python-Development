@@ -1,0 +1,13 @@
+section {
+  padding: 15px 25px;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: grey;
+  display: inline-block;
+
+  /* box-shadow: 5px 10px 5px black; */
+
+  /* box-shadow: 5px 10px 5px 10px black; */
+
+  box-shadow: 2px 3px 5px 2px black, -2px -3px 5px 2px black;
+}

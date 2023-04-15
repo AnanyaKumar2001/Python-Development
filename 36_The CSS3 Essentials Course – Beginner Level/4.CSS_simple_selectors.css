@@ -1,0 +1,27 @@
+/* Element/Name Selector */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ID selector */
+#course {
+  padding: 25px;
+}
+
+/* Class Selector */
+.title {
+  font-size: 35px;
+}
+
+/* Universal Selector */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Grouping Selector */
+.title,
+.para {
+  margin: 10px;
+  padding: 15px;
+}

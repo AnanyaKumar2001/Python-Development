@@ -1,0 +1,27 @@
+/* Descendant Selector */
+#tech h1 {
+  font-size: 55px;
+}
+
+/* Child Selector */
+article > p {
+  background-color: lightgreen;
+  padding: 15px;
+}
+
+/* Adjacent Sibling Selector */
+/* p + a {
+  text-decoration: none;
+  background-color: lightpink;
+  padding: 25px;
+} */
+
+/* General Sibling Selector */
+p ~ a {
+  text-decoration: none;
+  background-color: lightpink;
+  padding: 25px;
+
+  display: inline-block;
+  margin: 30px;
+}

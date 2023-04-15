@@ -1,0 +1,40 @@
+/* 1- Inline styling = 1000  */
+/* 2- Ids = 100 */
+/* 3- Classes, attributes + pseudo classes = 10 */
+/* 4- Elements, pseudo-elements = 1 */
+
+section {
+  background-color: limegreen;
+}
+
+#title {
+  font-size: 55px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.para {
+  color: white;
+}
+
+p {
+  color: blue;
+}
+
+a {
+  font-size: 35px;
+}
+
+a {
+  font-size: 100px;
+}
+
+h1#title {
+  font-size: 110px;
+}
+
+#title {
+  font-size: 55px;
+}
